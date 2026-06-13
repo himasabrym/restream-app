@@ -34,7 +34,7 @@ const channels = {
 
   ch4: {
     input: "http://rgkkw.live/live/akheelasharaf/97430689947/744518.ts",
-    output: "rtmp://rtmp.livepeer.com/live/f42e-8wdd-30g9-s3gn"
+    output: "rtmp://rtmp.livepeer.com/live/1264-4aou-cput-qrpm"
   },
 
   ch5: {
@@ -49,7 +49,7 @@ const logos = {
   ch1: "logo1.png",
   ch2: "logo22.png",
   ch3: "logo33.png",
-  ch4: "logo44.png",
+  ch4: "logo66.png",
   ch5: "logo55.png",
 };
 
