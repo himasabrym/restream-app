@@ -33,7 +33,7 @@ const channels = {
   },
 
   ch4: {
-    input: "http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237015.m3u8",
+    input: "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1063489.m3u8",
     output: "rtmp://rtmp.livepeer.com/live/fbb1-obc9-d04u-xcj1"
   },
 
