@@ -13,7 +13,7 @@ let viewerIntervals = {};
 const channels = {
   ch4k: {
     input: 
-    "https://super.hima-sabry2015.workers.dev/ch/bmax1_1080/index.m3u8",
+    "http://maveniptv.net:8080/live/eslamnasr/Eslam@2011/390814.m3u8",
     output: "rtmp://ssh101.bozztv.com/ssh101/max4khdr"
   },
   
