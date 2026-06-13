@@ -18,28 +18,28 @@ const channels = {
   },
   
   ch1: {
-    input: "https://lb1.aab1.top/odai/123321/66.ts",
-    output: "rtmp://rtmp.livepeer.com/live/6ce1-v2hu-38fu-awwa"
+    input: "https://pub-b6a2e12c8294473a88fb9c317217dbbc.r2.dev/BeinMax2S1.m3u8",
+    output: "rtmp://rtmp.livepeer.com/live/852e-1lln-j5bj-irwn"
   },
 
   ch2: {
-    input: "https://lb1.aab1.top/odai/123321/67.ts",
-    output: "rtmp://rtmp.livepeer.com/live/5716-lclm-8mhs-hd0n"
+    input: "https://pub-b6a2e12c8294473a88fb9c317217dbbc.r2.dev/BeinMax2S1.m3u8",
+    output: "rtmp://rtmp.livepeer.com/live/a01c-bpsa-mkig-9w64"
   },
 
   ch3: {
     input: "http://185.160.192.14/live/171348492752/5S6HGsea3j/255224.m3u8",
-    output: "rtmp://ssh101.bozztv.com/ssh101/max1hd"
+    output: "rtmp://rtmp.livepeer.com/live/139b-y32j-iguf-4hw8"
   },
 
   ch4: {
     input: "http://rgkkw.live/live/akheelasharaf/97430689947/744518.ts",
-    output: "rtmp://rtmp.livepeer.com/live/1264-4aou-cput-qrpm"
+    output: "rtmp://rtmp.livepeer.com/live/fbb1-obc9-d04u-xcj1"
   },
 
   ch5: {
-    input: "https://example.com/ch5.m3u8",
-    output: "rtmp://rtmp.livepeer.com/live/stream-key-5"
+    input: "http://185.160.192.14/live/171348492752/5S6HGsea3j/255224.m3u8",
+    output: "rtmp://ssh101.bozztv.com/ssh101/max1hd"
   }
 };
 
