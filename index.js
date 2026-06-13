@@ -28,12 +28,12 @@ const channels = {
   },
 
   ch3: {
-    input: "http://185.160.192.14/live/171348492752/5S6HGsea3j/255224.m3u8",
+    input: "http://185.160.192.14/live/171348492752/5S6HGsea3j/255226.m3u8",
     output: "rtmp://rtmp.livepeer.com/live/139b-y32j-iguf-4hw8"
   },
 
   ch4: {
-    input: "http://rgkkw.live/live/akheelasharaf/97430689947/744518.ts",
+    input: "http://rgkkw.live/live/akheelasharaf/97430689947/744520.ts",
     output: "rtmp://rtmp.livepeer.com/live/fbb1-obc9-d04u-xcj1"
   },
 
