@@ -33,8 +33,8 @@ const channels = {
   },
 
   ch4: {
-    input: "https://streem.rodoye.com/live/rodo/max_4/index.m3u8",
-    output: "rtmp://rtmp.livepeer.com/live/stream-key-4"
+    input: "http://185.160.192.14/live/171348492752/5S6HGsea3j/255225.m3u8",
+    output: "rtmp://rtmp.livepeer.com/live/f42e-8wdd-30g9-s3gn"
   },
 
   ch5: {
