@@ -23,7 +23,7 @@ const channels = {
   },
 
   ch2: {
-    input: "http://185.160.192.14/live/171348492752/5S6HGsea3j/255225.m3u8",
+    input: "https://oottoo.online/max2g/video.m3u8",
     output: "rtmp://rtmp.livepeer.com/live/a01c-bpsa-mkig-9w64"
   },
 
