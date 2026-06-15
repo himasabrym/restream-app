@@ -18,7 +18,7 @@ const channels = {
   },
   
   ch1: {
-    input: "https://pub-b6a2e12c8294473a88fb9c317217dbbc.r2.dev/BeinMax1S1.m3u8",
+    input: "https://ranapkbd.site/RANAPK33g/TVD/play.php?id=1745020",
     output: "rtmp://rtmp.livepeer.com/live/fb06-f7ej-oz27-cyh3"
   },
 
