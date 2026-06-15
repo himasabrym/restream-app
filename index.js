@@ -19,22 +19,22 @@ const channels = {
   
   ch1: {
     input: "https://pub-b6a2e12c8294473a88fb9c317217dbbc.r2.dev/BeinMax1S1.m3u8",
-    output: "rtmp://rtmp.livepeer.com/live/852e-1lln-j5bj-irwn"
+    output: "rtmp://rtmp.livepeer.com/live/fb06-f7ej-oz27-cyh3"
   },
 
   ch2: {
     input: "https://max.pl4k.workers.dev/max2hd/index.m3u8",
-    output: "rtmp://rtmp.livepeer.com/live/a01c-bpsa-mkig-9w64"
+    output: "rtmp://rtmp.livepeer.com/live/83e8-8n2p-hybl-3e60"
   },
 
   ch3: {
     input: "http://185.160.192.14/live/171348492752/5S6HGsea3j/255226.m3u8",
-    output: "rtmp://rtmp.livepeer.com/live/139b-y32j-iguf-4hw8"
+    output: "rtmp://rtmp.livepeer.com/live/47cc-jzzi-b9q8-0o7g"
   },
 
   ch4: {
     input: "http://rgkkw.live/live/akheelasharaf/97430689947/744526.ts",
-    output: "rtmp://rtmp.livepeer.com/live/fbb1-obc9-d04u-xcj1"
+    output: "rtmp://rtmp.livepeer.com/live/00b9-vcqw-w695-h58y"
   },
 
   ch5: {
