@@ -33,7 +33,7 @@ const channels = {
   },
 
   ch4: {
-    input: "http://185.160.192.14/live/206923845871/mI45UxamwN/255239.m3u8",
+    input: "http://palestine.vibertv.cyou/bein-mx-4k-2/index.m3u8",
     output: "rtmp://rtmp.livepeer.com/live/00b9-vcqw-w695-h58y"
   },
 
