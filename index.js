@@ -23,7 +23,7 @@ const channels = {
   },
 
   ch2: {
-    input: "https://max.pl4k.workers.dev/max2hd/index.m3u8",
+    input: "https://cdn.karwan.tv/biner-zaxo/index.m3u8",
     output: "rtmp://rtmp.livepeer.com/live/83e8-8n2p-hybl-3e60"
   },
 
