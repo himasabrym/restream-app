@@ -18,12 +18,12 @@ const channels = {
   },
   
   ch1: {
-    input: "https://www.darisoft.shop//alwan_1_4k/mono.m3u8",
+    input: "http://185.160.192.14/live/171348492752/5S6HGsea3j/255225.m3u8",
     output: "rtmp://rtmp.livepeer.com/live/6ce1-v2hu-38fu-awwa"
   },
 
   ch2: {
-    input: "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/0-t8lQTyTFQE35KdUqr0pkm-Jd-V_zyyQtTg5Dxp6TD1ov8fjo93sFLZu76IREPYe5VqWPMBoDKnTfq7oazOUQ/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
+    input: "https://mainc.fntvs.net:8443/live/KORKOR/9144357691443576/50126.m3u8",
     output: "rtmp://rtmp.livepeer.com/live/83e8-8n2p-hybl-3e60"
   },
 
