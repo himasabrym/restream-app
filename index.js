@@ -19,7 +19,7 @@ const channels = {
   
   ch1: {
     input: "https://ranapkbd.site/RANAPK33g/TVD/play.php?id=1745020",
-    output: "rtmp://rtmp.livepeer.com/live/fb06-f7ej-oz27-cyh3"
+    output: "rtmp://rtmp.livepeer.com/live/6ce1-v2hu-38fu-awwa"
   },
 
   ch2: {
@@ -29,7 +29,7 @@ const channels = {
 
   ch3: {
     input: "http://185.160.192.14/live/171348492752/5S6HGsea3j/255226.m3u8",
-    output: "rtmp://rtmp.livepeer.com/live/47cc-jzzi-b9q8-0o7g"
+    output: "rtmp://rtmp.livepeer.com/live/5716-lclm-8mhs-hd0n"
   },
 
   ch4: {
