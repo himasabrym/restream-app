@@ -19,22 +19,22 @@ const channels = {
   
   ch1: {
     input: "http://185.160.192.14/live/171348492752/5S6HGsea3j/255225.m3u8",
-    output: "rtmp://rtmp.livepeer.com/live/6ce1-v2hu-38fu-awwa"
+    output: "rtmp://rtmp.livepeer.com/live/a013-em1u-5x5q-u023"
   },
 
   ch2: {
     input: "https://mainc.fntvs.net:8443/live/KORKOR/9144357691443576/50126.m3u8",
-    output: "rtmp://rtmp.livepeer.com/live/0df1-hcun-m65m-lvdj"
+    output: "rtmp://rtmp.livepeer.com/live/1877-faf5-5zf6-hlpr"
   },
 
   ch3: {
     input: "http://185.160.192.14/live/171348492752/5S6HGsea3j/255226.m3u8",
-    output: "rtmp://rtmp.livepeer.com/live/5716-lclm-8mhs-hd0n"
+    output: "rtmp://rtmp.livepeer.com/live/3c46-jv1i-doh6-f87p"
   },
 
   ch4: {
     input: "https://max.pl4k.workers.dev/max24k/index.m3u8",
-    output: "rtmp://rtmp.livepeer.com/live/57aa-t2fx-dnzy-av5z"
+    output: "rtmp://rtmp.livepeer.com/live/e231-hpdp-t9or-jsqj"
   },
 
   ch5: {
