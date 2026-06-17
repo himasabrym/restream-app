@@ -24,7 +24,7 @@ const channels = {
 
   ch2: {
     input: "https://mainc.fntvs.net:8443/live/KORKOR/9144357691443576/50126.m3u8",
-    output: "rtmp://rtmp.livepeer.com/live/83e8-8n2p-hybl-3e60"
+    output: "rtmp://rtmp.livepeer.com/live/0df1-hcun-m65m-lvdj"
   },
 
   ch3: {
@@ -33,8 +33,8 @@ const channels = {
   },
 
   ch4: {
-    input: "http://palestine.vibertv.cyou/bein-mx-4k-2/index.m3u8",
-    output: "rtmp://rtmp.livepeer.com/live/00b9-vcqw-w695-h58y"
+    input: "https://max.pl4k.workers.dev/max24k/index.m3u8",
+    output: "rtmp://rtmp.livepeer.com/live/57aa-t2fx-dnzy-av5z"
   },
 
   ch5: {
